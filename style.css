@@ -1,0 +1,64 @@
+
+
+body{
+    background: #F0F2F0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #000C40, #F0F2F0);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #000C40, #F0F2F0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 
+ 
+
+
+
+}
+.main{
+    border: 2px solid #000C40;
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 70px;
+    zoom: 2;
+    padding: 10px;
+    font-weight: bold;
+    box-shadow: 0 4px 8px 0 rgba(0 , 0 , 0 , 0.2), 0 6px 20px 0 rgba(0 , 0 , 0 , 0.19);
+position: relative;
+border-radius: 20%;
+
+}
+.btnclear{
+    border: 2px solid #000C40;
+    width: 100%;
+    background-color:#dee2de;
+    font-weight: bold;
+    border-radius: 30%;
+}
+
+#result{
+    border: 2px solid  #000C40;
+    width: 96%;
+  background-color:#F0F2F0;
+    margin-bottom: 10px;
+    font-weight: bold;
+    border-radius: 30%;
+}
+
+
+
+.btn{
+    border: 2px solid  #000C40;
+    width: 45px;
+    margin: 1px ;
+    margin-top: 5px;
+    background-color: #F0F2F0;
+    font-weight: bold;
+    border-radius: 30%;
+}
+
+
+.btn1{
+    border: 2px solid #000C40 ;
+    width: 98px;
+    margin-top: 5px;
+    background-color: #F0F2F0;
+    font-weight: bold;
+    border-radius: 30%;
+}
+
